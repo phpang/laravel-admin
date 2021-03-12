@@ -30,6 +30,7 @@ class Positionable extends Pivot
         'position_id',
         'positionable_type',
         'positionable_id',
+        'positionable_url',
         'title',
         'cover_pic',
         'description',
